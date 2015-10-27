@@ -1,4 +1,4 @@
 # recursive-tree
 A recursive tree Swing program.
 
-Written for AP CS (Java) programming assignment.
+Written for an AP CS (Java) programming assignment.
